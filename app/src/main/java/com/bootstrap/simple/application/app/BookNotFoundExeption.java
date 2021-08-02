@@ -6,4 +6,7 @@ package com.bootstrap.simple.application.app;
  */
 public class BookNotFoundExeption extends RuntimeException {
 
+//    public BookNotFoundExeption(String menssage, Throwable cause) {
+//        super(menssage, cause);
+//    }
 }
